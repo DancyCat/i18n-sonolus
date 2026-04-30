@@ -596,7 +596,7 @@
     "Import": "Nhập file",
     "Search": "Tìm kiếm",
     "PullToRefresh": "Kéo xuống để tải lại",
-    "PullTip": "Mẹo: Kéo xuống đế xem thêm",
+    "PullTip": "Mẹo: Kéo xuống để xem thêm",
     "Save": "Lưu",
     "Share": "Chia sẻ",
     "Export": "Xuất file",
@@ -3300,10 +3300,10 @@
               "Description": "Bạn đang ở trong phòng nhiều người chơi, nếu tiếp tục thì bạn sẽ chỉ chơi một mình.\n\nBạn có chắc muốn chơi một mình không?"
             },
             "TutorialTip": {
-              "Message": "Đây là lần đầu tiên bạn chơi Engine này, bạn có muốn xem hướng dẫn không?"
+              "Message": "Bạn mới chơi đúng không? Muốn làm quen cách chơi chứ?"
             },
             "ConfigurationTip": {
-              "Message": "Đây là lần đầu tiên bạn chơi Engine này, bạn có muốn cấu hình các tùy chọn như tốc độ Note không?"
+              "Message": "Đối với hầu hết màn chơi khó, chúng tôi khuyến khích bạn nên điều chỉnh lại lối chơi để phù hợp với trình độ của mình.\n\nVí dụ: Bạn thấy Note quá Nhanh/Chậm, bạn hoàn toàn có thể chỉnh thông số trong mục 'Cấu hình' của màn chơi.\nBạn có muốn điều chỉnh một chút chứ?"
             },
             "Effect": {
               "Audio": {
@@ -4105,7 +4105,7 @@
     "Settings": {
       "Title": "Cài đặt",
       "Tip": {
-        "Message": "Cài đặt chứa các tùy chọn chung cho ứng dụng Sonolus.\n\nĐối với các tùy chọn cụ thể của Engine và màn chơi như tốc độ Note, bạn có thể thiết lập trong mục [Cấu hình] sau khi vào Server và chọn màn chơi."
+        "Message": "Cài đặt chứa các tùy chọn chung của Sonolus.\n\nĐối với các tùy chọn cụ thể của Engine và màn chơi như tốc độ Note, bạn có thể thiết lập trong mục 'Cấu hình' sau khi vào Server và chọn màn chơi."
       },
       "Graphics": {
         "Title": "Đồ họa",
@@ -4116,10 +4116,10 @@
         },
         "RenderMode": {
           "Title": "Chế độ kết xuất (Render)",
-          "Description": "Khuyến nghị nên để chế độ kết xuất Tiêu chuẩn.\n\nChế độ kết xuất Tiêu chuẩn cung cấp đồ họa chính xác, trong khi chế độ kết xuất Nhẹ cung cấp đồ họa kém chính xác hơn nhưng hiệu năng được cải thiện đáng kể.",
+          "Description": "Khuyến nghị nên để chế độ kết xuất Khá nhẹ.\n\nChế độ kết xuất Tiêu chuẩn cung cấp đồ họa chính xác, trong khi chế độ kết xuất Nhẹ cung cấp đồ họa kém chính xác hơn nhưng hiệu năng được cải thiện đáng kể.",
           "Options": {
             "Standard": "Tiêu chuẩn",
-            "Lightweight": "Nhẹ"
+            "Lightweight": "Khá nhẹ"
           }
         },
         "RenderScale": {
