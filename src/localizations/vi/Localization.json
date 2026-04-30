@@ -4116,7 +4116,7 @@
         },
         "RenderMode": {
           "Title": "Chế độ kết xuất (Render)",
-          "Description": "Khuyến nghị nên để chế độ kết xuất Khá nhẹ.\n\nChế độ kết xuất Tiêu chuẩn cung cấp đồ họa chính xác, trong khi chế độ kết xuất Nhẹ cung cấp đồ họa kém chính xác hơn nhưng hiệu năng được cải thiện đáng kể.",
+          "Description": "Khuyến nghị nên để chế độ kết xuất Khá nhẹ.\n\nChế độ kết xuất Tiêu chuẩn cung cấp đồ họa chính xác, trong khi chế độ kết xuất Khá nhẹ cung cấp đồ họa kém chính xác hơn nhưng đổi lại hiệu năng được cải thiện đáng kể.",
           "Options": {
             "Standard": "Tiêu chuẩn",
             "Lightweight": "Khá nhẹ"
